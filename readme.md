@@ -1,10 +1,10 @@
 # Alternate History Enigma Machine CTF for UACTF-2022
 
-**Category**: Crypto\
+**Category**: Crypto
 
-**Author**: Brad M\
+**Author**: Brad M
 
-**Difficulty**: Hard\
+**Difficulty**: Hard
 
 ### Description
 It's 1946 and Allied Enigma machine code-breaking efforts have been uncovered. This has forced a considerable alteration to its internal design.
